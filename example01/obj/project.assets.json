@@ -8,30 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Работа\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Евгений\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Работа\\Examples\\example01\\example01.csproj",
+      "projectUniqueName": "C:\\Users\\Евгений\\Examples\\yrok1\\example01\\example01.csproj",
       "projectName": "example01",
-      "projectPath": "C:\\Users\\Работа\\Examples\\example01\\example01.csproj",
-      "packagesPath": "C:\\Users\\Работа\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Работа\\Examples\\example01\\obj\\",
+      "projectPath": "C:\\Users\\Евгений\\Examples\\yrok1\\example01\\example01.csproj",
+      "packagesPath": "C:\\Users\\Евгений\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Евгений\\Examples\\yrok1\\example01\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Работа\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Евгений\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
