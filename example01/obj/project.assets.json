@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Работа\\Examples\\example01\\example01.csproj",
+      "projectUniqueName": "C:\\Users\\Работа\\Examples\\yrok1\\example01\\example01.csproj",
       "projectName": "example01",
-      "projectPath": "C:\\Users\\Работа\\Examples\\example01\\example01.csproj",
+      "projectPath": "C:\\Users\\Работа\\Examples\\yrok1\\example01\\example01.csproj",
       "packagesPath": "C:\\Users\\Работа\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Работа\\Examples\\example01\\obj\\",
+      "outputPath": "C:\\Users\\Работа\\Examples\\yrok1\\example01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

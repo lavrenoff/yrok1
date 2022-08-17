@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿int pervii1=125;
+int pervii2=250;
+
 Console.WriteLine("Hello, World!");
